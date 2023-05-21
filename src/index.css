@@ -117,6 +117,10 @@ button {
   align-items: center;
 }
 
+.pageContainer {
+  margin-bottom: 10rem;
+}
+
 .loadingSpinner {
   width: 64px;
   height: 64px;
@@ -301,7 +305,7 @@ button {
     margin-bottom: 10rem;
   }
 }
-@media (max-height: 536) {
+@media (max-height: 536px) {
   .explore {
     margin-bottom: 10rem;
   }
